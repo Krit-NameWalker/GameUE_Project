@@ -1,0 +1,1780 @@
+﻿Log file open, 12/16/22 20:37:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=4896)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Project_UE__ver.update
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" E:\Unreal\work\Project_UE__ver.update.New\Project_UE__ver.update.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2364] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="704b127843ff7dc56d2b2ebedefbaed3"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 1.927688
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-81DD96D5400A7C2460270D9A1921A0D0
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading IOS ini files took 0.07 seconds
+LogConfig: Display: Loading Android ini files took 0.07 seconds
+LogConfig: Display: Loading Mac ini files took 0.07 seconds
+LogConfig: Display: Loading Unix ini files took 0.08 seconds
+LogConfig: Display: Loading TVOS ini files took 0.08 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.09 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.10 seconds
+LogConfig: Display: Loading Linux ini files took 0.11 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.04 seconds
+LogConfig: Display: Loading Windows ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin PaperZD
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Marketplace/PaperZD/Content/' mounted to '/PaperZD/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.2364] (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Unreal/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.12.16-13.37.41:619][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.12.16-13.37.41:619][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.12.16-13.37.41:619][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.12.16-13.37.41:619][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.12.16-13.37.41:619][  0]LogConfig: CVar [[WorkingColorSpaceChoice:sRGB]] deferred - dummy variable created
+[2022.12.16-13.37.41:619][  0]LogConfig: CVar [[RedChromaticityCoordinate:(X=0.640000,Y=0.330000)]] deferred - dummy variable created
+[2022.12.16-13.37.41:619][  0]LogConfig: CVar [[GreenChromaticityCoordinate:(X=0.300000,Y=0.600000)]] deferred - dummy variable created
+[2022.12.16-13.37.41:619][  0]LogConfig: CVar [[BlueChromaticityCoordinate:(X=0.150000,Y=0.060000)]] deferred - dummy variable created
+[2022.12.16-13.37.41:619][  0]LogConfig: CVar [[WhiteChromaticityCoordinate:(X=0.312700,Y=0.329000)]] deferred - dummy variable created
+[2022.12.16-13.37.41:619][  0]LogConfig: CVar [[TranslucentSortAxis:(X=0.000000,Y=-1.000000,Z=0.000000)]] deferred - dummy variable created
+[2022.12.16-13.37.41:620][  0]LogConfig: CVar [[bDefaultParticleCutouts:0]] deferred - dummy variable created
+[2022.12.16-13.37.41:620][  0]LogConfig: CVar [[bStreamSkeletalMeshLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2022.12.16-13.37.41:620][  0]LogConfig: CVar [[bDiscardSkeletalMeshOptionalLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2022.12.16-13.37.41:620][  0]LogConfig: CVar [[VisualizeCalibrationCustomMaterialPath:None]] deferred - dummy variable created
+[2022.12.16-13.37.41:620][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.12.16-13.37.41:620][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.12.16-13.37.41:620][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.12.16-13.37.41:620][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.12.16-13.37.41:620][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.12.16-13.37.41:620][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.12.16-13.37.41:620][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.12.16-13.37.41:620][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.12.16-13.37.41:620][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.12.16-13.37.41:621][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.12.16-13.37.41:629][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.12.16-13.37.41:629][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.12.16-13.37.41:629][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.12.16-13.37.41:629][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.12.16-13.37.41:629][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.12.16-13.37.41:629][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.12.16-13.37.41:629][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.12.16-13.37.41:629][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.12.16-13.37.41:630][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.12.16-13.37.41:630][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.12.16-13.37.41:630][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.12.16-13.37.41:761][  0]LogD3D12RHI: Aftermath initialized
+[2022.12.16-13.37.41:761][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.12.16-13.37.42:104][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2060 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.12.16-13.37.42:104][  0]LogD3D12RHI: Adapter has 5968MB of dedicated video memory, 0MB of dedicated system memory, and 8113MB of shared system memory, 2 output[s]
+[2022.12.16-13.37.42:190][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics 630 (Max supported Feature Level 12_1, shader model 6.5)
+[2022.12.16-13.37.42:190][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8113MB of shared system memory, 0 output[s]
+[2022.12.16-13.37.42:206][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.12.16-13.37.42:206][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8113MB of shared system memory, 0 output[s]
+[2022.12.16-13.37.42:206][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.12.16-13.37.42:206][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.12.16-13.37.42:206][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.12.16-13.37.42:207][  0]LogHAL: Display: Platform has ~ 16 GB [17016123392 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.12.16-13.37.42:208][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.12.16-13.37.42:208][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.12.16-13.37.42:208][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.12.16-13.37.42:213][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.12.16-13.37.42:213][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Unreal/work/Project_UE__ver.update.New/Saved/Config/WindowsEditor/Editor.ini]
+[2022.12.16-13.37.42:215][  0]LogInit: Computer: MSI
+[2022.12.16-13.37.42:215][  0]LogInit: User: User
+[2022.12.16-13.37.42:215][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.12.16-13.37.42:215][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.12.16-13.37.42:215][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.12.16-13.37.42:215][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.12.16-13.37.42:215][  0]LogMemory: Process Physical Memory: 284.80 MB used, 286.79 MB peak
+[2022.12.16-13.37.42:215][  0]LogMemory: Process Virtual Memory: 238.26 MB used, 238.26 MB peak
+[2022.12.16-13.37.42:215][  0]LogMemory: Physical Memory: 10418.27 MB used,  5809.57 MB free, 16227.84 MB total
+[2022.12.16-13.37.42:215][  0]LogMemory: Virtual Memory: 13891.83 MB used,  7200.01 MB free, 21091.84 MB total
+[2022.12.16-13.37.42:215][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.12.16-13.37.42:262][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.12.16-13.37.42:391][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.12.16-13.37.42:396][  0]LogInit: Using OS detected language (en-US).
+[2022.12.16-13.37.42:396][  0]LogInit: Using OS detected locale (th-TH).
+[2022.12.16-13.37.42:411][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.12.16-13.37.42:748][  0]LogInit: Setting process to per monitor DPI aware
+[2022.12.16-13.37.42:792][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.12.16-13.37.42:792][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.12.16-13.37.42:792][  0]LogWindowsTextInputMethodSystem:   - Thai (Thailand) - (Keyboard).
+[2022.12.16-13.37.42:792][  0]LogWindowsTextInputMethodSystem:   - Thai (Thailand) - Touch Input Correction (TSF IME).
+[2022.12.16-13.37.42:792][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.12.16-13.37.42:913][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.12.16-13.37.42:913][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.12.16-13.37.46:832][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.12.16-13.37.46:836][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.12.16-13.37.46:836][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.12.16-13.37.46:968][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.12.16-13.37.46:968][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.12.16-13.37.46:968][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.12.16-13.37.46:968][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.12.16-13.37.46:968][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.12.16-13.37.46:968][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.12.16-13.37.46:968][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.12.16-13.37.46:968][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.12.16-13.37.46:968][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.12.16-13.37.46:968][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.12.16-13.37.46:968][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.12.16-13.37.46:968][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.12.16-13.37.46:968][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.12.16-13.37.46:968][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.12.16-13.37.46:968][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.12.16-13.37.46:968][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.12.16-13.37.47:036][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.12.16-13.37.47:050][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.12.16-13.37.47:072][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.12.16-13.37.47:099][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.12.16-13.37.47:099][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.12.16-13.37.47:274][  0]LogD3D12RHI:     GPU DeviceId: 0x1f15 (for the marketing name, search the web for "GPU Device Id")
+[2022.12.16-13.37.47:274][  0]LogWindows: Attached monitors:
+[2022.12.16-13.37.47:274][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1030), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.12.16-13.37.47:274][  0]LogWindows:     resolution: 1366x768, work area: (1920, 0) -> (3286, 728), device: '\\.\DISPLAY4'
+[2022.12.16-13.37.47:274][  0]LogWindows: Found 2 attached monitors.
+[2022.12.16-13.37.47:274][  0]LogWindows: EnumDisplayDevices:
+[2022.12.16-13.37.47:275][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.12.16-13.37.47:275][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.12.16-13.37.47:275][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.12.16-13.37.47:276][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:1), name: '\\.\DISPLAY4'
+[2022.12.16-13.37.47:276][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2022.12.16-13.37.47:276][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2022.12.16-13.37.47:276][  0]LogD3D12RHI:   Driver Version: 527.56 (internal:31.0.15.2756, unified:527.56)
+[2022.12.16-13.37.47:276][  0]LogD3D12RHI:      Driver Date: 12-5-2022
+[2022.12.16-13.37.47:277][  0]LogRHI: Texture pool is 3276 MB (70% of 4680 MB)
+[2022.12.16-13.37.47:277][  0]LogD3D12RHI: Async texture creation enabled
+[2022.12.16-13.37.47:277][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.12.16-13.37.47:324][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.12.16-13.37.47:384][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="E:/Unreal/work/Project_UE__ver.update.New/Project_UE__ver.update.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/Unreal/work/Project_UE__ver.update.New/Intermediate/TurnkeyReport_0.log" -log="E:/Unreal/work/Project_UE__ver.update.New/Intermediate/TurnkeyLog_0.log" -project="E:/Unreal/work/Project_UE__ver.update.New/Project_UE__ver.update.uproject"  -platform=all'
+[2022.12.16-13.37.47:384][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""E:/Unreal/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="E:/Unreal/work/Project_UE__ver.update.New/Project_UE__ver.update.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/Unreal/work/Project_UE__ver.update.New/Intermediate/TurnkeyReport_0.log" -log="E:/Unreal/work/Project_UE__ver.update.New/Intermediate/TurnkeyLog_0.log" -project="E:/Unreal/work/Project_UE__ver.update.New/Project_UE__ver.update.uproject"  -platform=all" ]
+[2022.12.16-13.37.47:669][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 9009
+[2022.12.16-13.37.47:669][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.12.16-13.37.48:029][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.12.16-13.37.48:029][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.12.16-13.37.48:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.12.16-13.37.48:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.12.16-13.37.48:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.12.16-13.37.48:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.12.16-13.37.48:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.12.16-13.37.48:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.12.16-13.37.48:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.12.16-13.37.48:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.12.16-13.37.48:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.12.16-13.37.48:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.12.16-13.37.48:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.12.16-13.37.48:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.12.16-13.37.48:276][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.12.16-13.37.48:276][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.12.16-13.37.48:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.12.16-13.37.48:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.12.16-13.37.48:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.12.16-13.37.48:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.12.16-13.37.48:334][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.12.16-13.37.48:334][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.12.16-13.37.48:334][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.12.16-13.37.48:353][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.12.16-13.37.48:353][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.12.16-13.37.48:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.12.16-13.37.48:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.12.16-13.37.48:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.12.16-13.37.48:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.12.16-13.37.48:399][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.12.16-13.37.48:486][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.12.16-13.37.48:504][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.12.16-13.37.48:504][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.12.16-13.37.48:504][  0]LogTargetPlatformManager:   ADPCM
+[2022.12.16-13.37.48:504][  0]LogTargetPlatformManager:   PCM
+[2022.12.16-13.37.48:520][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.12.16-13.37.48:520][  0]LogTargetPlatformManager:   BINKA
+[2022.12.16-13.37.48:520][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.12.16-13.37.48:520][  0]LogTargetPlatformManager:   OGG
+[2022.12.16-13.37.48:521][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.12.16-13.37.48:521][  0]LogTargetPlatformManager:   OPUS
+[2022.12.16-13.37.48:847][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.12.16-13.37.48:896][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.12.16-13.37.48:896][  0]LogTargetPlatformManager:   SF_METAL
+[2022.12.16-13.37.48:896][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.12.16-13.37.48:896][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.12.16-13.37.48:896][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.12.16-13.37.48:896][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.12.16-13.37.48:896][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.12.16-13.37.48:896][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.12.16-13.37.48:896][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.12.16-13.37.48:896][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.12.16-13.37.48:896][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.12.16-13.37.48:896][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.12.16-13.37.48:896][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.12.16-13.37.48:896][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.12.16-13.37.48:896][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.12.16-13.37.48:896][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.12.16-13.37.48:926][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.12.16-13.37.48:927][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.12.16-13.37.48:927][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.12.16-13.37.48:927][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.12.16-13.37.48:927][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.12.16-13.37.48:927][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.12.16-13.37.48:927][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.12.16-13.37.48:927][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.12.16-13.37.48:931][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../work/Project_UE__ver.update.New/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.12.16-13.37.48:937][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.12.16-13.37.48:938][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../work/Project_UE__ver.update.New/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.12.16-13.37.48:943][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.12.16-13.37.48:950][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../work/Project_UE__ver.update.New/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.12.16-13.37.48:950][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.12.16-13.37.48:950][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../work/Project_UE__ver.update.New/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.16-13.37.48:950][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.12.16-13.37.48:981][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.12.16-13.37.48:981][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.16-13.37.48:981][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.12.16-13.37.49:035][  0]LogDerivedDataCache: Speed tests for C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.05 seconds
+[2022.12.16-13.37.49:035][  0]LogDerivedDataCache: Display: Performance to C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.21ms. RandomReadSpeed=20.31MBs, RandomWriteSpeed=195.71MBs. Assigned SpeedClass 'Local'
+[2022.12.16-13.37.49:037][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.12.16-13.37.49:037][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.12.16-13.37.49:037][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.12.16-13.37.49:043][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.12.16-13.37.49:043][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.12.16-13.37.49:053][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (../../../../work/Project_UE__ver.update.New/Intermediate/Shaders/WorkingDirectory/4116/).
+[2022.12.16-13.37.49:053][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/B48EABF643CD2D171246F5901751D713/'.
+[2022.12.16-13.37.49:054][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.12.16-13.37.49:054][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2022.12.16-13.37.55:241][  0]LogSlate: Using FreeType 2.10.0
+[2022.12.16-13.37.55:262][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.12.16-13.37.55:511][  0]LogAssetRegistry: FAssetRegistry took 0.0160 seconds to start up
+[2022.12.16-13.37.55:521][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.12.16-13.37.55:990][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.12.16-13.37.56:001][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.12.16-13.37.56:419][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.12.16-13.37.56:419][  0]LogDeviceProfileManager: Active device profile: [00000A50F33A7000][00000A50E875A000 50] WindowsEditor
+[2022.12.16-13.37.56:419][  0]LogDeviceProfileManager: Profiles: [00000A50F33A6AC0][00000A50E8752800 50] Windows, [00000A50F33A7000][00000A50E875A000 50] WindowsEditor, [00000A50F33A4B40][00000A50E8757800 50] WindowsServer, [00000A50F33A2F40][00000A50E8750000 50] WindowsClient, [00000A50F33A5CC0][00000A50D4725000 50] IOS, [00000A50F33A1A40][00000A50F3630000 50] iPadAir2, [00000A50F33A4EC0][00000A50F3637800 50] IPadPro, [00000A50F33A6E40][00000A50F3635000 50] iPadAir3, [00000A50F33A2BC0][00000A50F363A000 50] iPadAir4, [00000A50F33A5780][00000A50F363C800 50] iPadMini4, [00000A50F33A4980][00000A50E8755000 50] iPadMini5, [00000A50F33A3100][00000A50F3650000 50] iPadMini6, [00000A50F33AA480][00000A50F365A000 50] iPhone6S, [00000A50F33AA800][00000A50F3657800 50] iPhone7, [00000A50F33AAB80][00000A50F3655000 50] iPodTouch7, [00000A50F33AA100][00000A50F365C800 50] iPhone6SPlus, [00000A50F33A9D80][00000A50F3632800 50] iPhone7Plus, [00000A50F33A39C0][00000A50F3660000 50] iPhoneSE, [00000A50F33A7380][00000A50F3665000 50] iPhone8, [00000A50F33A8880][00000A50F3667800 50] iPhone8Plus, [00000A50F33A2D80][00000A50F366A000 50] iPhoneX, [00000A50F33A3F00][00000A50F366C800 50] iPhoneXS, [00000A50F33A6580][00000A50F3652800 50] iPhoneXSMax, [00000A50F33A9A00][00000A50F3670000 50] iPhoneXR, [00000A50F33A2A00][00000A50F3675000 50] iPhone11, [00000A50F33A9F40][00000A50F3677800 50] iPhone11Pro, [00000A50F33A63C0][00000A50F367A000 50] iPhone11ProMax, [00000A50F33A8500][00000A50F367C800 50] iPhoneSE2, [00000A50F33A71C0][00000A50F3662800 50] iPhone12Mini, [00000A50F33A4440][00000A50F3680000 50] iPhone12, [00000A50F33A6040][00000A50F3685000 50] iPhone12Pro, [00000A50F33A40C0][00000A50F3687800 50] iPhone12ProMax, [00000A50F33AA640][00000A50F368A000 50] iPhone13Mini, [00000A50F33A3D40][00000A50F368C800 50] iPhone13, [00000A50F33A55C0][00000A50F3672800 50] iPhone13Pro, [00000A50F33A7E00][00000A50F3690000 50] iPhone13ProMax, [00000A50F33A7C40][00000A50F3695000 50] iPadPro105, [00000A50F33A5400][00000A50F3697800 50] iPadPro129, [00000A50F33AA9C0][00000A50F369A000 50] iPadPro97, [00000A50F33A9140][00000A50F369C800 50] iPadPro2_129, [00000A50F33A94C0][00000A50F3682800 50] iPad5, [00000A50F33A5E80][00000A50F36A0000 50] iPad6, [00000A50F33A6740][00000A50F36A5000 50] iPad7, [00000A50F33A8A40][00000A50F36A7800 50] iPad8, [00000A50F33A32C0][00000A50F36AA000 50] iPad9, [00000A50F33A1F80][00000A50F36AC800 50] iPadPro11, [00000A50F33A2140][00000A50F3692800 50] iPadPro2_11, [00000A50F33A86C0][00000A50F36C0000 50] iPadPro3_11, [00000A50F33A3640][00000A50F36C5000 50] iPadPro3_129, [00000A50F33A6200][00000A50F36C7800 50] iPadPro4_129, [00000A50F33A5B00][00000A50F36CA000 50] iPadPro5_129, [00000A50F33A9BC0][00000A50F36CC800 50] AppleTV, [00000A50F33A8C00][00000A50F36A2800 50] AppleTV4K, [00000A50F33A2840][00000A50F36D0000 50] TVOS, [00000A50F33AC5C0][00000A50F36D7800 50] Mac, [00000A50F33AC940][00000A50F36D5000 50] MacEditor, [00000A50F33AC240][00000A50F36DA000 50] MacClient, [00000A50F33AA2C0][00000A50F36DC800 50] MacServer, [00000A50F33ACCC0][00000A50F36F0000 50] Linux, [00000A50F33AD040][00000A50F36F2800 50] LinuxEditor, [00000A50F33A8F80][00000A50F36F7800 50] LinuxArm64Editor, [00000A50F33AAD40][00000A50F36FA000 50] LinuxArm64, [00000A50F33ABD00][00000A50F36FC800 50] LinuxClient, [00000A50F33A8DC0][00000A50F36C2800 50] LinuxArm64Client, [00000A50F33A8340][00000A50F36F5000 50] LinuxServer, [00000A50F33A9680][00000A50F36E0000 50] LinuxArm64Server, [00000A50F33AD740][00000A50F36E5000 50] Android, [00000A50F33AAF00][00000A50F36E7800 50] Android_Preview_OpenGL, [00000A50F33AC080][00000A50F36EA000 50] Android_Preview_Vulkan, [00000A50F33AB440][00000A50F36EC800 50] Android_Low, [00000A50F33A7540][00000A50F36D2800 50] Android_Mid, [00000A50F33A47C0][00000A50F3700000 50] Android_High, [00000A50F33ADAC0][00000A50F3705000 50] Android_Default, [00000A50F33AB600][00000A50F3707800 50] Android_Adreno4xx, [00000A50F33A4280][00000A50F370A000 50] Android_Adreno5xx_Low, [00000A50F33AB7C0][00000A50F370C800 50] Android_Adreno5xx, [00000A50F33A5240][00000A50F36E2800 50] Android_Adreno6xx, [00000A50F33AB980][00000A50F3710000 50] Android_Adreno6xx_Vulkan, [00000A50F33A78C0][00000A50F3715000 50] Android_Adreno7xx, [00000A50F33AD200][00000A50F3717800 50] Android_Adreno7xx_Vulkan, [00000A50F33ACE80][00000A50F371A000 50] Android_Mali_T6xx, [00000A50F33A5940][00000A50F371C800 50] Android_Mali_T7xx, [00000A50F33A3800][00000A50F3702800 50] Android_Mali_T8xx, [00000A50F33ABB40][00000A50F3720000 50] Android_Mali_G71, [00000A50F33A8180][00000A50F3725000 50] Android_Mali_G72, [00000A50F33AC400][00000A50F3727800 50] Android_Mali_G72_Vulkan, [00000A50F33ABEC0][00000A50F372A000 50] Android_Mali_G76, [00000A50F33AE700][00000A50F372C800 50] Android_Mali_G76_Vulkan, [00000A50F33ACB00][00000A50F3712800 50] Android_Mali_G77, [00000A50F33ADE40][00000A50F3730000 50] Android_Mali_G77_Vulkan, [00000A50F33AC780][00000A50F3735000 50] Android_Mali_G78, [00000A50F33AE8C0][00000A50F3737800 50] Android_Mali_G78_Vulkan, [00000A50F33A9840][00000A50F373A000 50] Android_Mali_G710, [00000A50F33AD900][00000A50F373C800 50] Android_Mali_G710_Vulkan, [00000A50F33A7A80][00000A50F3722800 50] Android_Xclipse_920, [00000A50F33A5080][00000A50F3740000 50] Android_Xclipse_920_Vulkan, [00000A50F33AF6C0][00000A50F3745000 50] Android_Vulkan_SM5, [00000A50F33AE540][00000A50F3747800 50] Android_PowerVR_G6xxx, [00000A50F33A7700][00000A50F374A000 50] Android_PowerVR_GT7xxx, [00000A50F33A3480][00000A50F374C800 50] Android_PowerVR_GE8xxx, [00000A50F33AF880][00000A50F3732800 50] Android_PowerVR_GM9xxx, [00000A50F33A7FC0][00000A50F3750000 50] Android_PowerVR_GM9xxx_Vulkan, [00000A50F33ADC80][00000A50F3755000 50] Android_TegraK1, [00000A50F33AFC00][00000A50F3757800 50] Android_Unknown_Vulkan, [00000A50F33AEC40][00000A50F375A000 50] Oculus_Quest, [00000A50F33AB280][00000A50F375C800 50] Oculus_Quest2, [00000A50F3770000][00000A50F3742800 50] HoloLens, 
+[2022.12.16-13.37.56:419][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.12.16-13.37.56:574][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.12.16-13.37.57:052][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.12.16-13.37.57:052][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.12.16-13.37.57:052][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.12.16-13.37.57:052][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.12.16-13.37.57:053][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.12.16-13.37.57:153][  0]LogNetVersion: Project_UE__ver.update 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3207701484)
+[2022.12.16-13.37.57:765][  0]LogSlate: Border
+[2022.12.16-13.37.57:765][  0]LogSlate: BreadcrumbButton
+[2022.12.16-13.37.57:765][  0]LogSlate: Default
+[2022.12.16-13.37.57:765][  0]LogSlate: Icons.Save
+[2022.12.16-13.37.57:765][  0]LogSlate: Icons.Toolbar.Settings
+[2022.12.16-13.37.57:765][  0]LogSlate: ListView
+[2022.12.16-13.37.57:765][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.12.16-13.37.57:765][  0]LogSlate: SoftwareCursor_Grab
+[2022.12.16-13.37.57:765][  0]LogSlate: TableView.DarkRow
+[2022.12.16-13.37.57:765][  0]LogSlate: TableView.Row
+[2022.12.16-13.37.57:765][  0]LogSlate: TreeView
+[2022.12.16-13.37.59:251][  0]SourceControl: Source control is disabled
+[2022.12.16-13.37.59:357][  0]SourceControl: Source control is disabled
+[2022.12.16-13.37.59:357][  0]SourceControl: Source control is disabled
+[2022.12.16-13.37.59:642][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.12.16-13.37.59:642][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.12.16-13.37.59:642][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.12.16-13.38.02:209][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 69E0436147DA4EDC932037B4657C6774 | Instance: 93AAC9CC43CD95B594FAC09745B1BADA (MSI-4116).
+[2022.12.16-13.38.02:767][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.12.16-13.38.02:814][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.12.16-13.38.02:964][  0]LogPython: Using Python 3.9.7
+[2022.12.16-13.38.07:299][  0]SourceControl: Source control is disabled
+[2022.12.16-13.38.07:337][  0]SourceControl: Source control is disabled
+[2022.12.16-13.38.07:373][  0]SourceControl: Source control is disabled
+[2022.12.16-13.38.07:589][  0]LogUProjectInfo: Found projects:
+[2022.12.16-13.38.07:651][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.12.16-13.38.07:652][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.12.16-13.38.07:653][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.12.16-13.38.08:474][  0]LogOpenImageDenoise: OIDN starting up
+[2022.12.16-13.38.09:102][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.16-13.38.09:102][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.16-13.38.09:181][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.12.16-13.38.09:855][  0]LogCollectionManager: Loaded 0 collections in 0.001891 seconds
+[2022.12.16-13.38.10:369][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal/work/Project_UE__ver.update.New/Saved/Collections/' took 0.00s
+[2022.12.16-13.38.10:370][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal/work/Project_UE__ver.update.New/Content/Developers/User/Collections/' took 0.00s
+[2022.12.16-13.38.10:370][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal/work/Project_UE__ver.update.New/Content/Collections/' took 0.00s
+[2022.12.16-13.38.11:391][  0]LogEngine: Initializing Engine...
+[2022.12.16-13.38.11:433][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.12.16-13.38.11:464][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.12.16-13.38.12:305][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.12.16-13.38.12:312][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.16-13.38.12:375][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.16-13.38.12:473][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.12.16-13.38.12:489][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.12.16-13.38.12:581][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.12.16-13.38.12:588][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.12.16-13.38.12:588][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.12.16-13.38.12:592][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.12.16-13.38.12:592][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.12.16-13.38.12:593][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.16-13.38.12:593][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.16-13.38.12:593][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.16-13.38.12:593][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.16-13.38.12:593][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.16-13.38.12:593][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.16-13.38.12:593][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.16-13.38.12:593][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.16-13.38.12:596][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.16-13.38.12:596][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.16-13.38.12:596][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.16-13.38.12:660][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.16-13.38.12:916][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2022.12.16-13.38.12:920][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.16-13.38.12:973][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.16-13.38.12:974][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.16-13.38.12:982][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.12.16-13.38.12:983][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.12.16-13.38.12:988][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.12.16-13.38.12:988][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.12.16-13.38.12:988][  0]LogInit: FAudioDevice initialized.
+[2022.12.16-13.38.12:990][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.12.16-13.38.12:992][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.12.16-13.38.12:993][  0]LogInit: Texture streaming: Enabled
+[2022.12.16-13.38.13:131][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.12.16-13.38.13:171][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.12.16-13.38.13:171][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={AA025D7F-44C5-4421-8580-EBAE15BE68E2}
+[2022.12.16-13.38.13:232][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.12.16-13.38.13:278][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.12.16-13.38.13:278][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.12.16-13.38.15:842][  0]LogLiveCoding: Display: First instance in process group "UE_Project_UE__ver_update_0xde596777", spawning console
+[2022.12.16-13.38.15:842][  0]LogLiveCoding: Display: Waiting for server
+[2022.12.16-13.38.15:842][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.12.16-13.38.15:878][  0]LogInit: Transaction tracking system initialized
+[2022.12.16-13.38.16:082][  0]BlueprintLog: New page: Editor Load
+[2022.12.16-13.38.16:826][  0]LocalizationService: Localization service is disabled
+[2022.12.16-13.38.16:983][  0]TimingProfiler: Initialize
+[2022.12.16-13.38.16:984][  0]TimingProfiler: OnSessionChanged
+[2022.12.16-13.38.16:984][  0]LoadingProfiler: Initialize
+[2022.12.16-13.38.16:985][  0]LoadingProfiler: OnSessionChanged
+[2022.12.16-13.38.16:986][  0]NetworkingProfiler: Initialize
+[2022.12.16-13.38.16:987][  0]NetworkingProfiler: OnSessionChanged
+[2022.12.16-13.38.16:987][  0]MemoryProfiler: Initialize
+[2022.12.16-13.38.16:987][  0]MemoryProfiler: OnSessionChanged
+[2022.12.16-13.38.17:602][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.12.16-13.38.17:603][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.12.16-13.38.17:604][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.12.16-13.38.19:553][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal/work/Project_UE__ver.update.New/Content/' took 0.01s
+[2022.12.16-13.38.19:553][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.12.16-13.38.19:777][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.12.16-13.38.19:785][  0]SourceControl: Source control is disabled
+[2022.12.16-13.38.19:786][  0]LogUnrealEdMisc: Loading editor; pre map load, took 45.475
+[2022.12.16-13.38.19:788][  0]Cmd: MAP LOAD FILE="../../../../work/Project_UE__ver.update.New/Content/Maps/Map_Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.16-13.38.19:789][  0]LightingResults: New page: Lighting Build
+[2022.12.16-13.38.19:810][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.16-13.38.19:815][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.16-13.38.19:819][  0]MapCheck: New page: Map Check
+[2022.12.16-13.38.19:819][  0]LightingResults: New page: Lighting Build
+[2022.12.16-13.38.19:850][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.16-13.38.19:877][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.12.16-13.38.22:281][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_QuadPyramid.Shape_QuadPyramid should be resaved to improve async compilation performance.
+[2022.12.16-13.38.22:306][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_Test'.
+[2022.12.16-13.38.22:306][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.16-13.38.22:307][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.16-13.38.22:308][  0]LogAIModule: Creating AISystem for world Map_Test
+[2022.12.16-13.38.22:360][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.16-13.38.22:381][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.12.16-13.38.22:382][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.16-13.38.22:383][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.412ms to complete.
+[2022.12.16-13.38.22:383][  0]LogFileHelpers: Loading map 'Map_Test' took 2.596
+[2022.12.16-13.38.22:451][  0]LogUnrealEdMisc: Total Editor Startup Time, took 48.140
+[2022.12.16-13.38.22:451][  0]LogShaderCompilers: Display: ================================================
+[2022.12.16-13.38.22:451][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.16-13.38.22:451][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.12.16-13.38.22:451][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.12.16-13.38.22:452][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.12.16-13.38.22:452][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.16-13.38.22:452][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.12.16-13.38.22:452][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.12.16-13.38.22:452][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.12.16-13.38.22:452][  0]LogShaderCompilers: Display: ================================================
+[2022.12.16-13.38.22:655][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.12.16-13.38.22:866][  0]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.12.16-13.38.23:674][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.16-13.38.23:683][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.16-13.38.23:691][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.16-13.38.23:699][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.16-13.38.23:840][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.12.16-13.38.23:840][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.16-13.38.23:851][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.12.16-13.38.23:851][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.16-13.38.23:858][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.12.16-13.38.23:858][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.16-13.38.23:866][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.12.16-13.38.23:866][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.16-13.38.23:881][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.12.16-13.38.23:881][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.16-13.38.23:889][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.12.16-13.38.23:889][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.16-13.38.23:897][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.12.16-13.38.23:897][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.16-13.38.23:904][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.12.16-13.38.23:904][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.16-13.38.23:910][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.12.16-13.38.23:910][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.16-13.38.23:917][  0]LogPakFile: Display: Mounted Pak file 'E:/Unreal/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.12.16-13.38.23:917][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.16-13.38.23:917][  0]LogFeaturePack: Error: Error in Feature pack E:/Unreal/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.12.16-13.38.24:529][  0]LogSlate: Took 0.006528 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.16-13.38.24:544][  0]LogSlate: Took 0.008803 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.12.16-13.38.24:570][  0]LogViewport: Scene viewport resized to 1490x858, mode Windowed.
+[2022.12.16-13.38.25:745][  0]LogStall: Startup...
+[2022.12.16-13.38.25:747][  0]LogStall: Startup complete.
+[2022.12.16-13.38.25:809][  0]LogLoad: (Engine Initialization) Total time: 51.50 seconds
+[2022.12.16-13.38.25:809][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.12.16-13.38.25:949][  0]LogAssetRegistry: Asset discovery search completed in 30.4400 seconds
+[2022.12.16-13.38.25:996][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.12.16-13.38.26:030][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.12.16-13.38.26:097][  0]LogSlate: Took 0.006265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.16-13.38.26:618][  2]LogNavigationDataBuild: Navigation data generation finished in /Game/Maps/Map_Test.
+[2022.12.16-13.38.35:790][365]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.16-13.38.35:802][365]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.16-13.38.35:806][365]PIE: New page: PIE session: Map_Test (17 ธ.ค. 2565 03:38:35)
+[2022.12.16-13.38.35:813][365]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.12.16-13.38.35:813][365]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.12.16-13.38.35:814][365]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_Test
+[2022.12.16-13.38.35:821][365]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006767s)
+[2022.12.16-13.38.35:821][365]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_Test.Map_Test to /Game/Maps/UEDPIE_0_Map_Test.Map_Test (0.007034s)
+[2022.12.16-13.38.35:821][365]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.16-13.38.35:822][365]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.16-13.38.35:822][365]LogAIModule: Creating AISystem for world Map_Test
+[2022.12.16-13.38.35:823][365]LogPlayLevel: PIE: World Init took: (0.001480s)
+[2022.12.16-13.38.35:834][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.12.16-13.38.35:836][365]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.12.16-13.38.35:836][365]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.16-13.38.35:836][365]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.16-13.38.35:836][365]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.16-13.38.35:836][365]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.16-13.38.35:836][365]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.16-13.38.35:836][365]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.16-13.38.35:836][365]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.16-13.38.35:836][365]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.16-13.38.35:837][365]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.16-13.38.35:837][365]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.16-13.38.35:837][365]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.16-13.38.35:839][365]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.16-13.38.35:884][365]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2022.12.16-13.38.35:884][365]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.16-13.38.35:884][365]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.16-13.38.35:884][365]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.16-13.38.35:885][365]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.12.16-13.38.35:885][365]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.12.16-13.38.35:888][365]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.12.16-13.38.35:888][365]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.12.16-13.38.35:888][365]LogInit: FAudioDevice initialized.
+[2022.12.16-13.38.35:888][365]LogAudio: Display: Audio Device (ID: 2) registered with world 'Map_Test'.
+[2022.12.16-13.38.35:915][365]LogLoad: Game class is 'MainCharacter_PlayerStart_C'
+[2022.12.16-13.38.35:918][365]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.16-13.38.35:919][365]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Test.Map_Test up for play (max tick rate 60) at 2022.12.16-20.38.35
+[2022.12.16-13.38.35:929][365]LogWorld: Bringing up level for play took: 0.013727
+[2022.12.16-13.38.35:933][365]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2022.12.16-13.38.35:982][365]PIE: Server logged in
+[2022.12.16-13.38.35:984][365]PIE: Play in editor total start time 0.184 seconds.
+[2022.12.16-13.38.35:993][365]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.95
+[2022.12.16-13.38.35:995][365]LogScript: Warning: Accessed None trying to read property As Enemy Paper Character
+	Enemy_PaperZDAnimBP_C /Game/Maps/UEDPIE_0_Map_Test.Map_Test:PersistentLevel.Enemy_PaperCharacter_C_0.PaperZDAnimation.Enemy_PaperZDAnimBP_C_0
+	Function /Game/Character/EnemyCharacter/Animation/Enemy_PaperZDAnimBP.Enemy_PaperZDAnimBP_C:ZDRule_Transition_2:00BD
+[2022.12.16-13.38.35:996][365]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Enemy Paper Character". Node:  Result Graph:  Transition_2 Function:  ZDRule Transition 2 Blueprint:  Enemy_PaperZDAnimBP
+[2022.12.16-13.38.35:996][365]LogScript: Warning: Accessed None trying to read property As Enemy Paper Character
+	Enemy_PaperZDAnimBP_C /Game/Maps/UEDPIE_0_Map_Test.Map_Test:PersistentLevel.Enemy_PaperCharacter_C_6.PaperZDAnimation.Enemy_PaperZDAnimBP_C_0
+	Function /Game/Character/EnemyCharacter/Animation/Enemy_PaperZDAnimBP.Enemy_PaperZDAnimBP_C:ZDRule_Transition_2:00BD
+[2022.12.16-13.38.35:996][365]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Enemy Paper Character". Node:  Result Graph:  Transition_2 Function:  ZDRule Transition 2 Blueprint:  Enemy_PaperZDAnimBP
+[2022.12.16-13.38.35:996][365]LogScript: Warning: Accessed None trying to read property As Main Character Paper Character
+	AnimBP_MainCharacter_C /Game/Maps/UEDPIE_0_Map_Test.Map_Test:PersistentLevel.MainCharacter_PaperCharacter_C_0.PaperZDAnimation.AnimBP_MainCharacter_C_0
+	Function /Game/Character/MainCharacter_Animation/Animation/AnimBP_MainCharacter.AnimBP_MainCharacter_C:ZDRule_Transition_5:00BD
+[2022.12.16-13.38.35:996][365]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Main Character Paper Character". Node:  Result Graph:  Transition_5 Function:  ZDRule Transition 5 Blueprint:  AnimBP_MainCharacter
+[2022.12.16-13.38.35:997][365]LogScript: Warning: Accessed None trying to read property As Main Character Paper Character
+	AnimBP_MainCharacter_C /Game/Maps/UEDPIE_0_Map_Test.Map_Test:PersistentLevel.MainCharacter_PaperCharacter_C_0.PaperZDAnimation.AnimBP_MainCharacter_C_0
+	Function /Game/Character/MainCharacter_Animation/Animation/AnimBP_MainCharacter.AnimBP_MainCharacter_C:ZDRule_Transition_6:00BD
+[2022.12.16-13.38.35:997][365]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Main Character Paper Character". Node:  Result Graph:  Transition_6 Function:  ZDRule Transition 6 Blueprint:  AnimBP_MainCharacter
+[2022.12.16-13.38.35:997][365]LogScript: Warning: Accessed None trying to read property As Main Character Paper Character
+	AnimBP_MainCharacter_C /Game/Maps/UEDPIE_0_Map_Test.Map_Test:PersistentLevel.MainCharacter_PaperCharacter_C_0.PaperZDAnimation.AnimBP_MainCharacter_C_0
+	Function /Game/Character/MainCharacter_Animation/Animation/AnimBP_MainCharacter.AnimBP_MainCharacter_C:ZDRule_Transition_8:00BD
+[2022.12.16-13.38.35:997][365]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Main Character Paper Character". Node:  Result Graph:  Transition_8 Function:  ZDRule Transition 8 Blueprint:  AnimBP_MainCharacter
+[2022.12.16-13.38.36:073][366]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.9
+[2022.12.16-13.38.36:128][367]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.85
+[2022.12.16-13.38.36:183][368]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.8
+[2022.12.16-13.38.36:203][369]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.75
+[2022.12.16-13.38.36:220][370]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.7
+[2022.12.16-13.38.36:237][371]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.65
+[2022.12.16-13.38.36:255][372]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.6
+[2022.12.16-13.38.36:278][373]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.55
+[2022.12.16-13.38.36:297][374]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.5
+[2022.12.16-13.38.36:315][375]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.45
+[2022.12.16-13.38.36:330][376]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.4
+[2022.12.16-13.38.36:346][377]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.35
+[2022.12.16-13.38.36:364][378]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.3
+[2022.12.16-13.38.36:379][379]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.25
+[2022.12.16-13.38.36:396][380]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.2
+[2022.12.16-13.38.36:413][381]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.15
+[2022.12.16-13.38.36:430][382]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.1
+[2022.12.16-13.38.36:446][383]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.05
+[2022.12.16-13.38.36:464][384]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99
+[2022.12.16-13.38.36:482][385]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.95
+[2022.12.16-13.38.36:497][386]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.9
+[2022.12.16-13.38.36:513][387]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.85
+[2022.12.16-13.38.36:530][388]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.8
+[2022.12.16-13.38.36:547][389]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.75
+[2022.12.16-13.38.36:564][390]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.7
+[2022.12.16-13.38.36:580][391]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.65
+[2022.12.16-13.38.36:596][392]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.6
+[2022.12.16-13.38.36:613][393]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.55
+[2022.12.16-13.38.36:630][394]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.5
+[2022.12.16-13.38.36:647][395]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.45
+[2022.12.16-13.38.36:664][396]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.4
+[2022.12.16-13.38.36:680][397]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.35
+[2022.12.16-13.38.36:697][398]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.3
+[2022.12.16-13.38.36:716][399]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.25
+[2022.12.16-13.38.36:737][400]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.2
+[2022.12.16-13.38.36:756][401]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.15
+[2022.12.16-13.38.36:771][402]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.1
+[2022.12.16-13.38.36:788][403]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.05
+[2022.12.16-13.38.36:811][404]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98
+[2022.12.16-13.38.36:828][405]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 97.95
+[2022.12.16-13.38.36:845][406]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 97.9
+[2022.12.16-13.38.36:861][407]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 97.85
+[2022.12.16-13.38.36:879][408]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 97.8
+[2022.12.16-13.38.36:896][409]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 97.75
+[2022.12.16-13.38.36:911][410]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 97.7
+[2022.12.16-13.38.36:929][411]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 97.65
+[2022.12.16-13.38.36:945][412]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 97.6
+[2022.12.16-13.38.36:963][413]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 97.55
+[2022.12.16-13.38.36:980][414]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 97.5
+[2022.12.16-13.38.36:996][415]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 97.45
+[2022.12.16-13.38.37:012][416]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 97.4
+[2022.12.16-13.38.37:030][417]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 97.35
+[2022.12.16-13.38.37:045][418]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 97.3
+[2022.12.16-13.38.37:063][419]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 97.25
+[2022.12.16-13.38.37:080][420]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 97.2
+[2022.12.16-13.38.37:098][421]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 97.15
+[2022.12.16-13.38.37:114][422]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 97.1
+[2022.12.16-13.38.37:134][423]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 97.05
+[2022.12.16-13.38.37:151][424]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 97
+[2022.12.16-13.38.37:169][425]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 96.95
+[2022.12.16-13.38.37:185][426]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 96.9
+[2022.12.16-13.38.37:202][427]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 96.85
+[2022.12.16-13.38.37:218][428]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 96.8
+[2022.12.16-13.38.37:236][429]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 96.75
+[2022.12.16-13.38.37:253][430]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 96.7
+[2022.12.16-13.38.37:269][431]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 96.65
+[2022.12.16-13.38.37:285][432]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 96.6
+[2022.12.16-13.38.37:303][433]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 96.55
+[2022.12.16-13.38.37:319][434]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 96.5
+[2022.12.16-13.38.37:337][435]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 96.45
+[2022.12.16-13.38.37:352][436]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 96.4
+[2022.12.16-13.38.37:370][437]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 96.35
+[2022.12.16-13.38.37:386][438]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 96.3
+[2022.12.16-13.38.37:402][439]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 96.25
+[2022.12.16-13.38.37:420][440]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] ClickTime: 2 /n LimitHit: 1
+[2022.12.16-13.38.37:422][440]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 96.2
+[2022.12.16-13.38.37:436][441]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 96.15
+[2022.12.16-13.38.37:451][442]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 96.1
+[2022.12.16-13.38.37:472][443]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 96.05
+[2022.12.16-13.38.37:485][444]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 96
+[2022.12.16-13.38.37:503][445]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 95.95
+[2022.12.16-13.38.37:519][446]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 95.9
+[2022.12.16-13.38.37:535][447]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 95.85
+[2022.12.16-13.38.37:553][448]LogBlueprintUserMessages: [Enemy_PaperCharacter_C_0] Hitting Gate: true
+[2022.12.16-13.38.37:554][448]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 100.8
+[2022.12.16-13.38.37:569][449]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 100.75
+[2022.12.16-13.38.37:591][450]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 100.7
+[2022.12.16-13.38.37:610][451]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 100.65
+[2022.12.16-13.38.37:629][452]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 100.6
+[2022.12.16-13.38.37:647][453]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 100.55
+[2022.12.16-13.38.37:663][454]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 100.5
+[2022.12.16-13.38.37:682][455]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 100.45
+[2022.12.16-13.38.37:702][456]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 100.4
+[2022.12.16-13.38.37:721][457]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 100.35
+[2022.12.16-13.38.37:740][458]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 100.3
+[2022.12.16-13.38.37:758][459]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 100.25
+[2022.12.16-13.38.37:774][460]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 100.2
+[2022.12.16-13.38.37:792][461]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 100.15
+[2022.12.16-13.38.37:808][462]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 100.1
+[2022.12.16-13.38.37:824][463]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 100.05
+[2022.12.16-13.38.37:840][464]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 100
+[2022.12.16-13.38.37:858][465]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.95
+[2022.12.16-13.38.37:875][466]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.9
+[2022.12.16-13.38.37:892][467]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.85
+[2022.12.16-13.38.37:908][468]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.8
+[2022.12.16-13.38.37:927][469]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.75
+[2022.12.16-13.38.37:944][470]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.7
+[2022.12.16-13.38.37:962][471]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.65
+[2022.12.16-13.38.37:979][472]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.6
+[2022.12.16-13.38.37:996][473]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.55
+[2022.12.16-13.38.38:013][474]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.5
+[2022.12.16-13.38.38:031][475]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.45
+[2022.12.16-13.38.38:047][476]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.4
+[2022.12.16-13.38.38:064][477]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.35
+[2022.12.16-13.38.38:081][478]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.3
+[2022.12.16-13.38.38:099][479]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.25
+[2022.12.16-13.38.38:114][480]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.2
+[2022.12.16-13.38.38:134][481]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.15
+[2022.12.16-13.38.38:150][482]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.1
+[2022.12.16-13.38.38:167][483]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.05
+[2022.12.16-13.38.38:183][484]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99
+[2022.12.16-13.38.38:199][485]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.95
+[2022.12.16-13.38.38:216][486]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.9
+[2022.12.16-13.38.38:232][487]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.85
+[2022.12.16-13.38.38:252][488]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.8
+[2022.12.16-13.38.38:269][489]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.75
+[2022.12.16-13.38.38:285][490]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.7
+[2022.12.16-13.38.38:302][491]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.65
+[2022.12.16-13.38.38:318][492]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] ClickTime: 2 /n LimitHit: 2
+[2022.12.16-13.38.38:319][492]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.6
+[2022.12.16-13.38.38:338][493]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.55
+[2022.12.16-13.38.38:355][494]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.5
+[2022.12.16-13.38.38:371][495]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.45
+[2022.12.16-13.38.38:388][496]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.4
+[2022.12.16-13.38.38:404][497]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.35
+[2022.12.16-13.38.38:423][498]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.3
+[2022.12.16-13.38.38:438][499]LogBlueprintUserMessages: [Enemy_PaperCharacter_C_0] Hitting Gate: true
+[2022.12.16-13.38.38:438][499]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 103.25
+[2022.12.16-13.38.38:455][500]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 103.2
+[2022.12.16-13.38.38:471][501]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 103.15
+[2022.12.16-13.38.38:488][502]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 103.1
+[2022.12.16-13.38.38:504][503]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 103.05
+[2022.12.16-13.38.38:522][504]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 103
+[2022.12.16-13.38.38:538][505]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 102.95
+[2022.12.16-13.38.38:555][506]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 102.9
+[2022.12.16-13.38.38:570][507]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 102.85
+[2022.12.16-13.38.38:587][508]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 102.8
+[2022.12.16-13.38.38:604][509]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 102.75
+[2022.12.16-13.38.38:620][510]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 102.7
+[2022.12.16-13.38.38:639][511]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 102.65
+[2022.12.16-13.38.38:655][512]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 102.6
+[2022.12.16-13.38.38:671][513]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 102.55
+[2022.12.16-13.38.38:690][514]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 102.5
+[2022.12.16-13.38.38:705][515]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 102.45
+[2022.12.16-13.38.38:722][516]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 102.4
+[2022.12.16-13.38.38:742][517]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 102.35
+[2022.12.16-13.38.38:758][518]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 102.3
+[2022.12.16-13.38.38:774][519]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 102.25
+[2022.12.16-13.38.38:791][520]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 102.2
+[2022.12.16-13.38.38:809][521]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 102.15
+[2022.12.16-13.38.38:825][522]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 102.1
+[2022.12.16-13.38.38:842][523]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 102.05
+[2022.12.16-13.38.38:858][524]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 102
+[2022.12.16-13.38.38:875][525]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 101.95
+[2022.12.16-13.38.38:892][526]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 101.9
+[2022.12.16-13.38.38:908][527]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 101.85
+[2022.12.16-13.38.38:925][528]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 101.8
+[2022.12.16-13.38.38:941][529]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 101.75
+[2022.12.16-13.38.38:960][530]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 101.7
+[2022.12.16-13.38.38:975][531]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 101.65
+[2022.12.16-13.38.38:992][532]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 101.6
+[2022.12.16-13.38.39:008][533]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 101.55
+[2022.12.16-13.38.39:025][534]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 101.5
+[2022.12.16-13.38.39:042][535]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 101.45
+[2022.12.16-13.38.39:060][536]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 101.4
+[2022.12.16-13.38.39:077][537]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 101.35
+[2022.12.16-13.38.39:093][538]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 101.3
+[2022.12.16-13.38.39:109][539]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 101.25
+[2022.12.16-13.38.39:126][540]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 101.2
+[2022.12.16-13.38.39:144][541]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 101.15
+[2022.12.16-13.38.39:160][542]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 101.1
+[2022.12.16-13.38.39:181][543]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 101.05
+[2022.12.16-13.38.39:203][544]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 101
+[2022.12.16-13.38.39:220][545]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 100.95
+[2022.12.16-13.38.39:236][546]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 100.9
+[2022.12.16-13.38.39:256][547]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 100.85
+[2022.12.16-13.38.39:270][548]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 100.8
+[2022.12.16-13.38.39:287][549]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 100.75
+[2022.12.16-13.38.39:304][550]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 100.7
+[2022.12.16-13.38.39:323][551]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 100.65
+[2022.12.16-13.38.39:342][552]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 100.6
+[2022.12.16-13.38.39:358][553]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 100.55
+[2022.12.16-13.38.39:375][554]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 100.5
+[2022.12.16-13.38.39:393][555]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 100.45
+[2022.12.16-13.38.39:408][556]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 100.4
+[2022.12.16-13.38.39:426][557]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 100.35
+[2022.12.16-13.38.39:441][558]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 100.3
+[2022.12.16-13.38.39:462][559]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 100.25
+[2022.12.16-13.38.39:478][560]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 100.2
+[2022.12.16-13.38.39:495][561]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 100.15
+[2022.12.16-13.38.39:511][562]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 100.1
+[2022.12.16-13.38.39:528][563]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 100.05
+[2022.12.16-13.38.39:545][564]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 100
+[2022.12.16-13.38.39:563][565]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.95
+[2022.12.16-13.38.39:579][566]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.9
+[2022.12.16-13.38.39:595][567]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.85
+[2022.12.16-13.38.39:612][568]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.8
+[2022.12.16-13.38.39:629][569]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.75
+[2022.12.16-13.38.39:645][570]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.7
+[2022.12.16-13.38.39:662][571]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.65
+[2022.12.16-13.38.39:679][572]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.6
+[2022.12.16-13.38.39:695][573]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.55
+[2022.12.16-13.38.39:712][574]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.5
+[2022.12.16-13.38.39:735][575]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.45
+[2022.12.16-13.38.39:753][576]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.4
+[2022.12.16-13.38.39:776][577]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.35
+[2022.12.16-13.38.39:796][578]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.3
+[2022.12.16-13.38.39:812][579]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.25
+[2022.12.16-13.38.39:829][580]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.2
+[2022.12.16-13.38.39:845][581]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.15
+[2022.12.16-13.38.39:861][582]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.1
+[2022.12.16-13.38.39:878][583]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99.05
+[2022.12.16-13.38.39:895][584]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 99
+[2022.12.16-13.38.39:911][585]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.95
+[2022.12.16-13.38.39:928][586]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.9
+[2022.12.16-13.38.39:945][587]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.85
+[2022.12.16-13.38.39:963][588]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.8
+[2022.12.16-13.38.39:978][589]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.75
+[2022.12.16-13.38.39:995][590]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.7
+[2022.12.16-13.38.40:012][591]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.65
+[2022.12.16-13.38.40:029][592]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.6
+[2022.12.16-13.38.40:045][593]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.55
+[2022.12.16-13.38.40:062][594]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.5
+[2022.12.16-13.38.40:079][595]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.45
+[2022.12.16-13.38.40:095][596]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.4
+[2022.12.16-13.38.40:115][597]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.35
+[2022.12.16-13.38.40:132][598]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.3
+[2022.12.16-13.38.40:148][599]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.25
+[2022.12.16-13.38.40:167][600]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.2
+[2022.12.16-13.38.40:183][601]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.15
+[2022.12.16-13.38.40:202][602]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.1
+[2022.12.16-13.38.40:218][603]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98.05
+[2022.12.16-13.38.40:234][604]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 98
+[2022.12.16-13.38.40:251][605]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 97.95
+[2022.12.16-13.38.40:268][606]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 97.9
+[2022.12.16-13.38.40:284][607]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 97.85
+[2022.12.16-13.38.40:302][608]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 87.8
+[2022.12.16-13.38.40:318][609]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 87.75
+[2022.12.16-13.38.40:334][610]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 87.7
+[2022.12.16-13.38.40:351][611]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 87.65
+[2022.12.16-13.38.40:368][612]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 87.6
+[2022.12.16-13.38.40:384][613]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 87.55
+[2022.12.16-13.38.40:401][614]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 87.5
+[2022.12.16-13.38.40:418][615]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 87.45
+[2022.12.16-13.38.40:435][616]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 87.4
+[2022.12.16-13.38.40:451][617]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 87.35
+[2022.12.16-13.38.40:469][618]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 87.3
+[2022.12.16-13.38.40:485][619]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 87.25
+[2022.12.16-13.38.40:502][620]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 87.2
+[2022.12.16-13.38.40:518][621]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 87.15
+[2022.12.16-13.38.40:535][622]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 87.1
+[2022.12.16-13.38.40:553][623]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 87.05
+[2022.12.16-13.38.40:568][624]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 87
+[2022.12.16-13.38.40:584][625]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 86.95
+[2022.12.16-13.38.40:602][626]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 86.9
+[2022.12.16-13.38.40:618][627]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 86.85
+[2022.12.16-13.38.40:636][628]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 86.8
+[2022.12.16-13.38.40:652][629]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 86.75
+[2022.12.16-13.38.40:668][630]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 86.7
+[2022.12.16-13.38.40:685][631]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 86.65
+[2022.12.16-13.38.40:704][632]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 86.6
+[2022.12.16-13.38.40:721][633]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 86.55
+[2022.12.16-13.38.40:739][634]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 86.5
+[2022.12.16-13.38.40:756][635]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 86.45
+[2022.12.16-13.38.40:772][636]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 86.4
+[2022.12.16-13.38.40:789][637]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 86.35
+[2022.12.16-13.38.40:806][638]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 86.3
+[2022.12.16-13.38.40:822][639]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 86.25
+[2022.12.16-13.38.40:839][640]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 86.2
+[2022.12.16-13.38.40:856][641]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 86.15
+[2022.12.16-13.38.40:872][642]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 86.1
+[2022.12.16-13.38.40:888][643]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 86.05
+[2022.12.16-13.38.40:905][644]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 86
+[2022.12.16-13.38.40:923][645]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 85.95
+[2022.12.16-13.38.40:939][646]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 85.9
+[2022.12.16-13.38.40:955][647]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 85.85
+[2022.12.16-13.38.40:972][648]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 85.8
+[2022.12.16-13.38.40:988][649]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 85.75
+[2022.12.16-13.38.41:005][650]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 85.7
+[2022.12.16-13.38.41:021][651]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 85.65
+[2022.12.16-13.38.41:039][652]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 85.6
+[2022.12.16-13.38.41:055][653]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 85.55
+[2022.12.16-13.38.41:072][654]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 85.5
+[2022.12.16-13.38.41:089][655]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 85.45
+[2022.12.16-13.38.41:105][656]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 85.4
+[2022.12.16-13.38.41:122][657]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 85.35
+[2022.12.16-13.38.41:139][658]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 85.3
+[2022.12.16-13.38.41:155][659]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 85.25
+[2022.12.16-13.38.41:172][660]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 85.2
+[2022.12.16-13.38.41:189][661]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 85.15
+[2022.12.16-13.38.41:206][662]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 85.1
+[2022.12.16-13.38.41:222][663]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 85.05
+[2022.12.16-13.38.41:239][664]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 85
+[2022.12.16-13.38.41:256][665]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 84.95
+[2022.12.16-13.38.41:281][666]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 84.9
+[2022.12.16-13.38.41:296][667]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 84.85
+[2022.12.16-13.38.41:314][668]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 84.8
+[2022.12.16-13.38.41:331][669]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 84.75
+[2022.12.16-13.38.41:347][670]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 84.7
+[2022.12.16-13.38.41:364][671]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 84.65
+[2022.12.16-13.38.41:380][672]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 84.6
+[2022.12.16-13.38.41:396][673]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 84.55
+[2022.12.16-13.38.41:414][674]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 84.5
+[2022.12.16-13.38.41:431][675]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 84.45
+[2022.12.16-13.38.41:447][676]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 84.4
+[2022.12.16-13.38.41:465][677]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 84.35
+[2022.12.16-13.38.41:481][678]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 84.3
+[2022.12.16-13.38.41:498][679]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 84.25
+[2022.12.16-13.38.41:515][680]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 84.2
+[2022.12.16-13.38.41:531][681]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 84.15
+[2022.12.16-13.38.41:548][682]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 84.1
+[2022.12.16-13.38.41:565][683]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 84.05
+[2022.12.16-13.38.41:581][684]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 84
+[2022.12.16-13.38.41:600][685]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 83.95
+[2022.12.16-13.38.41:615][686]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 83.9
+[2022.12.16-13.38.41:632][687]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 83.85
+[2022.12.16-13.38.41:648][688]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 83.8
+[2022.12.16-13.38.41:666][689]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 83.75
+[2022.12.16-13.38.41:683][690]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 83.7
+[2022.12.16-13.38.41:700][691]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 83.65
+[2022.12.16-13.38.41:720][692]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 83.6
+[2022.12.16-13.38.41:741][693]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 83.55
+[2022.12.16-13.38.41:759][694]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 83.5
+[2022.12.16-13.38.41:776][695]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 83.45
+[2022.12.16-13.38.41:792][696]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 83.4
+[2022.12.16-13.38.41:809][697]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 83.35
+[2022.12.16-13.38.41:826][698]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 73.3
+[2022.12.16-13.38.41:842][699]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 73.25
+[2022.12.16-13.38.41:860][700]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 73.2
+[2022.12.16-13.38.41:875][701]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 73.15
+[2022.12.16-13.38.41:893][702]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 73.1
+[2022.12.16-13.38.41:916][703]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 73.05
+[2022.12.16-13.38.41:940][704]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 73
+[2022.12.16-13.38.41:958][705]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 72.95
+[2022.12.16-13.38.41:977][706]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 72.9
+[2022.12.16-13.38.41:998][707]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 72.85
+[2022.12.16-13.38.42:018][708]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 72.8
+[2022.12.16-13.38.42:041][709]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 72.75
+[2022.12.16-13.38.42:062][710]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 72.7
+[2022.12.16-13.38.42:082][711]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 72.65
+[2022.12.16-13.38.42:108][712]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 72.6
+[2022.12.16-13.38.42:131][713]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 72.55
+[2022.12.16-13.38.42:153][714]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 72.5
+[2022.12.16-13.38.42:174][715]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 72.45
+[2022.12.16-13.38.42:195][716]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 72.4
+[2022.12.16-13.38.42:211][717]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 72.35
+[2022.12.16-13.38.42:228][718]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 72.3
+[2022.12.16-13.38.42:245][719]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 72.25
+[2022.12.16-13.38.42:262][720]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 72.2
+[2022.12.16-13.38.42:279][721]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 72.15
+[2022.12.16-13.38.42:295][722]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 72.1
+[2022.12.16-13.38.42:311][723]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 72.05
+[2022.12.16-13.38.42:330][724]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 72
+[2022.12.16-13.38.42:347][725]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 71.95
+[2022.12.16-13.38.42:364][726]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 71.9
+[2022.12.16-13.38.42:381][727]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 71.85
+[2022.12.16-13.38.42:397][728]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 71.8
+[2022.12.16-13.38.42:414][729]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 71.75
+[2022.12.16-13.38.42:432][730]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 71.7
+[2022.12.16-13.38.42:453][731]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 71.65
+[2022.12.16-13.38.42:471][732]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 71.6
+[2022.12.16-13.38.42:487][733]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 71.55
+[2022.12.16-13.38.42:504][734]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 71.5
+[2022.12.16-13.38.42:521][735]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 71.45
+[2022.12.16-13.38.42:538][736]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 71.4
+[2022.12.16-13.38.42:555][737]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 71.35
+[2022.12.16-13.38.42:571][738]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 71.3
+[2022.12.16-13.38.42:589][739]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 71.25
+[2022.12.16-13.38.42:605][740]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 71.2
+[2022.12.16-13.38.42:621][741]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 71.15
+[2022.12.16-13.38.42:640][742]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 71.1
+[2022.12.16-13.38.42:656][743]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 71.05
+[2022.12.16-13.38.42:671][744]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 71
+[2022.12.16-13.38.42:689][745]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 70.95
+[2022.12.16-13.38.42:705][746]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 70.9
+[2022.12.16-13.38.42:726][747]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 70.85
+[2022.12.16-13.38.42:743][748]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 70.8
+[2022.12.16-13.38.42:760][749]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 70.75
+[2022.12.16-13.38.42:777][750]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 70.7
+[2022.12.16-13.38.42:794][751]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 70.65
+[2022.12.16-13.38.42:810][752]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 70.6
+[2022.12.16-13.38.42:828][753]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 70.55
+[2022.12.16-13.38.42:844][754]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 70.5
+[2022.12.16-13.38.42:861][755]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 70.45
+[2022.12.16-13.38.42:877][756]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 70.4
+[2022.12.16-13.38.42:894][757]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 70.35
+[2022.12.16-13.38.42:910][758]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 70.3
+[2022.12.16-13.38.42:931][759]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 70.25
+[2022.12.16-13.38.42:948][760]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 70.2
+[2022.12.16-13.38.42:966][761]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 70.15
+[2022.12.16-13.38.42:983][762]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 70.1
+[2022.12.16-13.38.43:000][763]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 70.05
+[2022.12.16-13.38.43:016][764]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 70
+[2022.12.16-13.38.43:032][765]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 69.95
+[2022.12.16-13.38.43:050][766]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 69.9
+[2022.12.16-13.38.43:069][767]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 69.85
+[2022.12.16-13.38.43:085][768]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 69.8
+[2022.12.16-13.38.43:102][769]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 69.75
+[2022.12.16-13.38.43:119][770]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 69.7
+[2022.12.16-13.38.43:135][771]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 69.65
+[2022.12.16-13.38.43:152][772]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 69.6
+[2022.12.16-13.38.43:169][773]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 69.55
+[2022.12.16-13.38.43:185][774]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 69.5
+[2022.12.16-13.38.43:202][775]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 69.45
+[2022.12.16-13.38.43:218][776]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 69.4
+[2022.12.16-13.38.43:235][777]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 69.35
+[2022.12.16-13.38.43:251][778]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 69.3
+[2022.12.16-13.38.43:268][779]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 69.25
+[2022.12.16-13.38.43:285][780]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 69.2
+[2022.12.16-13.38.43:302][781]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 69.15
+[2022.12.16-13.38.43:318][782]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 69.1
+[2022.12.16-13.38.43:335][783]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 69.05
+[2022.12.16-13.38.43:352][784]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 59
+[2022.12.16-13.38.43:369][785]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 58.95
+[2022.12.16-13.38.43:386][786]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 58.9
+[2022.12.16-13.38.43:403][787]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 58.85
+[2022.12.16-13.38.43:418][788]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 58.8
+[2022.12.16-13.38.43:436][789]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 58.75
+[2022.12.16-13.38.43:451][790]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 58.7
+[2022.12.16-13.38.43:469][791]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 58.65
+[2022.12.16-13.38.43:485][792]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 58.6
+[2022.12.16-13.38.43:502][793]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 58.55
+[2022.12.16-13.38.43:518][794]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 58.5
+[2022.12.16-13.38.43:535][795]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 58.45
+[2022.12.16-13.38.43:552][796]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 58.4
+[2022.12.16-13.38.43:569][797]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 58.35
+[2022.12.16-13.38.43:585][798]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 58.3
+[2022.12.16-13.38.43:602][799]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 58.25
+[2022.12.16-13.38.43:619][800]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 58.2
+[2022.12.16-13.38.43:635][801]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 58.15
+[2022.12.16-13.38.43:652][802]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 58.1
+[2022.12.16-13.38.43:669][803]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 58.05
+[2022.12.16-13.38.43:685][804]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 58
+[2022.12.16-13.38.43:702][805]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 57.95
+[2022.12.16-13.38.43:719][806]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 57.9
+[2022.12.16-13.38.43:736][807]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 57.85
+[2022.12.16-13.38.43:753][808]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 57.8
+[2022.12.16-13.38.43:769][809]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 57.75
+[2022.12.16-13.38.43:785][810]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 57.7
+[2022.12.16-13.38.43:802][811]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 57.65
+[2022.12.16-13.38.43:818][812]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 57.6
+[2022.12.16-13.38.43:838][813]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 57.55
+[2022.12.16-13.38.43:856][814]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 57.5
+[2022.12.16-13.38.43:872][815]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 57.45
+[2022.12.16-13.38.43:893][816]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 57.4
+[2022.12.16-13.38.43:909][817]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 57.35
+[2022.12.16-13.38.43:926][818]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 57.3
+[2022.12.16-13.38.43:943][819]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 57.25
+[2022.12.16-13.38.43:960][820]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 57.2
+[2022.12.16-13.38.43:977][821]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 57.15
+[2022.12.16-13.38.43:994][822]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 57.1
+[2022.12.16-13.38.44:011][823]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 57.05
+[2022.12.16-13.38.44:027][824]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 57
+[2022.12.16-13.38.44:044][825]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 56.95
+[2022.12.16-13.38.44:067][826]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 56.9
+[2022.12.16-13.38.44:083][827]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 56.85
+[2022.12.16-13.38.44:100][828]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 56.8
+[2022.12.16-13.38.44:117][829]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 56.75
+[2022.12.16-13.38.44:132][830]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 56.7
+[2022.12.16-13.38.44:149][831]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 56.65
+[2022.12.16-13.38.44:167][832]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 56.6
+[2022.12.16-13.38.44:183][833]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 56.55
+[2022.12.16-13.38.44:199][834]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 56.5
+[2022.12.16-13.38.44:216][835]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 56.45
+[2022.12.16-13.38.44:233][836]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 56.4
+[2022.12.16-13.38.44:249][837]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 56.35
+[2022.12.16-13.38.44:267][838]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 56.3
+[2022.12.16-13.38.44:283][839]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 56.25
+[2022.12.16-13.38.44:300][840]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 56.2
+[2022.12.16-13.38.44:316][841]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 56.15
+[2022.12.16-13.38.44:333][842]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 56.1
+[2022.12.16-13.38.44:350][843]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 56.05
+[2022.12.16-13.38.44:367][844]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 56
+[2022.12.16-13.38.44:383][845]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 55.95
+[2022.12.16-13.38.44:400][846]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 55.9
+[2022.12.16-13.38.44:417][847]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 55.85
+[2022.12.16-13.38.44:437][848]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 55.8
+[2022.12.16-13.38.44:453][849]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 55.75
+[2022.12.16-13.38.44:470][850]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 55.7
+[2022.12.16-13.38.44:487][851]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 55.65
+[2022.12.16-13.38.44:504][852]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 55.6
+[2022.12.16-13.38.44:520][853]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 55.55
+[2022.12.16-13.38.44:536][854]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 55.5
+[2022.12.16-13.38.44:554][855]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 55.45
+[2022.12.16-13.38.44:569][856]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 55.4
+[2022.12.16-13.38.44:586][857]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 55.35
+[2022.12.16-13.38.44:603][858]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 55.3
+[2022.12.16-13.38.44:620][859]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 55.25
+[2022.12.16-13.38.44:636][860]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 55.2
+[2022.12.16-13.38.44:653][861]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 55.15
+[2022.12.16-13.38.44:669][862]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 55.1
+[2022.12.16-13.38.44:687][863]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 55.05
+[2022.12.16-13.38.44:704][864]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 55
+[2022.12.16-13.38.44:722][865]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 54.95
+[2022.12.16-13.38.44:737][866]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 54.9
+[2022.12.16-13.38.44:754][867]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 54.85
+[2022.12.16-13.38.44:770][868]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 54.8
+[2022.12.16-13.38.44:788][869]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 54.75
+[2022.12.16-13.38.44:804][870]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 54.7
+[2022.12.16-13.38.44:822][871]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 54.65
+[2022.12.16-13.38.44:838][872]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 54.6
+[2022.12.16-13.38.44:855][873]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 54.55
+[2022.12.16-13.38.44:871][874]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 54.5
+[2022.12.16-13.38.44:888][875]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 54.45
+[2022.12.16-13.38.44:904][876]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 54.4
+[2022.12.16-13.38.44:921][877]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 54.35
+[2022.12.16-13.38.44:938][878]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 54.3
+[2022.12.16-13.38.44:955][879]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 54.25
+[2022.12.16-13.38.44:971][880]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 54.2
+[2022.12.16-13.38.44:988][881]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 54.15
+[2022.12.16-13.38.45:004][882]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 54.1
+[2022.12.16-13.38.45:021][883]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 54.05
+[2022.12.16-13.38.45:038][884]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 54
+[2022.12.16-13.38.45:055][885]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 53.95
+[2022.12.16-13.38.45:071][886]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 53.9
+[2022.12.16-13.38.45:088][887]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 53.85
+[2022.12.16-13.38.45:104][888]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 53.8
+[2022.12.16-13.38.45:121][889]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 53.75
+[2022.12.16-13.38.45:138][890]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 53.7
+[2022.12.16-13.38.45:155][891]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 53.65
+[2022.12.16-13.38.45:171][892]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 53.6
+[2022.12.16-13.38.45:188][893]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 53.55
+[2022.12.16-13.38.45:205][894]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 53.5
+[2022.12.16-13.38.45:222][895]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 53.45
+[2022.12.16-13.38.45:238][896]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 53.4
+[2022.12.16-13.38.45:255][897]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 53.35
+[2022.12.16-13.38.45:271][898]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 53.3
+[2022.12.16-13.38.45:288][899]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 53.25
+[2022.12.16-13.38.45:305][900]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 53.2
+[2022.12.16-13.38.45:322][901]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 53.15
+[2022.12.16-13.38.45:338][902]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 53.1
+[2022.12.16-13.38.45:355][903]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 53.05
+[2022.12.16-13.38.45:371][904]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 43
+[2022.12.16-13.38.45:389][905]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 42.95
+[2022.12.16-13.38.45:405][906]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 42.9
+[2022.12.16-13.38.45:422][907]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 42.85
+[2022.12.16-13.38.45:437][908]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 42.8
+[2022.12.16-13.38.45:454][909]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 42.75
+[2022.12.16-13.38.45:471][910]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 42.7
+[2022.12.16-13.38.45:488][911]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 42.65
+[2022.12.16-13.38.45:504][912]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 42.6
+[2022.12.16-13.38.45:522][913]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 42.55
+[2022.12.16-13.38.45:538][914]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 42.5
+[2022.12.16-13.38.45:555][915]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 42.45
+[2022.12.16-13.38.45:571][916]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 42.4
+[2022.12.16-13.38.45:589][917]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 42.35
+[2022.12.16-13.38.45:605][918]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 42.3
+[2022.12.16-13.38.45:622][919]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 42.25
+[2022.12.16-13.38.45:637][920]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 42.2
+[2022.12.16-13.38.45:654][921]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 42.15
+[2022.12.16-13.38.45:670][922]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 42.1
+[2022.12.16-13.38.45:689][923]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 42.05
+[2022.12.16-13.38.45:704][924]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 42
+[2022.12.16-13.38.45:723][925]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 41.95
+[2022.12.16-13.38.45:740][926]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 41.9
+[2022.12.16-13.38.45:756][927]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 41.85
+[2022.12.16-13.38.45:773][928]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 41.8
+[2022.12.16-13.38.45:790][929]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 41.75
+[2022.12.16-13.38.45:806][930]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 41.7
+[2022.12.16-13.38.45:824][931]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 41.65
+[2022.12.16-13.38.45:840][932]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 41.6
+[2022.12.16-13.38.45:857][933]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 41.55
+[2022.12.16-13.38.45:873][934]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 41.5
+[2022.12.16-13.38.45:891][935]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 41.45
+[2022.12.16-13.38.45:907][936]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 41.4
+[2022.12.16-13.38.45:924][937]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 41.35
+[2022.12.16-13.38.45:940][938]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 41.3
+[2022.12.16-13.38.45:957][939]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 41.25
+[2022.12.16-13.38.45:973][940]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 41.2
+[2022.12.16-13.38.45:991][941]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 41.15
+[2022.12.16-13.38.46:007][942]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 41.1
+[2022.12.16-13.38.46:023][943]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 41.05
+[2022.12.16-13.38.46:039][944]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 41
+[2022.12.16-13.38.46:057][945]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 40.95
+[2022.12.16-13.38.46:073][946]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 40.9
+[2022.12.16-13.38.46:090][947]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 40.85
+[2022.12.16-13.38.46:106][948]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 40.8
+[2022.12.16-13.38.46:123][949]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 40.75
+[2022.12.16-13.38.46:139][950]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 40.7
+[2022.12.16-13.38.46:158][951]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 40.65
+[2022.12.16-13.38.46:173][952]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 40.6
+[2022.12.16-13.38.46:190][953]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 40.55
+[2022.12.16-13.38.46:207][954]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 40.5
+[2022.12.16-13.38.46:224][955]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 40.45
+[2022.12.16-13.38.46:240][956]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 40.4
+[2022.12.16-13.38.46:257][957]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 40.35
+[2022.12.16-13.38.46:273][958]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 40.3
+[2022.12.16-13.38.46:291][959]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 40.25
+[2022.12.16-13.38.46:307][960]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 40.2
+[2022.12.16-13.38.46:324][961]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 40.15
+[2022.12.16-13.38.46:340][962]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 40.1
+[2022.12.16-13.38.46:357][963]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 40.05
+[2022.12.16-13.38.46:374][964]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 40
+[2022.12.16-13.38.46:390][965]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 39.95
+[2022.12.16-13.38.46:406][966]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 39.9
+[2022.12.16-13.38.46:424][967]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 39.85
+[2022.12.16-13.38.46:440][968]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 39.8
+[2022.12.16-13.38.46:457][969]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 39.75
+[2022.12.16-13.38.46:473][970]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 39.7
+[2022.12.16-13.38.46:490][971]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 39.65
+[2022.12.16-13.38.46:506][972]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 39.6
+[2022.12.16-13.38.46:523][973]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 39.55
+[2022.12.16-13.38.46:540][974]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 39.5
+[2022.12.16-13.38.46:557][975]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 39.45
+[2022.12.16-13.38.46:573][976]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 39.4
+[2022.12.16-13.38.46:590][977]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 39.35
+[2022.12.16-13.38.46:606][978]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 39.3
+[2022.12.16-13.38.46:623][979]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 39.25
+[2022.12.16-13.38.46:640][980]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 39.2
+[2022.12.16-13.38.46:657][981]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 39.15
+[2022.12.16-13.38.46:673][982]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 39.1
+[2022.12.16-13.38.46:691][983]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 39.05
+[2022.12.16-13.38.46:708][984]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 39
+[2022.12.16-13.38.46:726][985]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 38.95
+[2022.12.16-13.38.46:741][986]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 38.9
+[2022.12.16-13.38.46:756][987]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 38.85
+[2022.12.16-13.38.46:773][988]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 38.8
+[2022.12.16-13.38.46:790][989]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 38.75
+[2022.12.16-13.38.46:806][990]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 38.7
+[2022.12.16-13.38.46:824][991]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 38.65
+[2022.12.16-13.38.46:840][992]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 38.6
+[2022.12.16-13.38.46:856][993]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 38.55
+[2022.12.16-13.38.46:873][994]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 28.5
+[2022.12.16-13.38.46:890][995]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 28.45
+[2022.12.16-13.38.46:907][996]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 28.4
+[2022.12.16-13.38.46:924][997]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 28.35
+[2022.12.16-13.38.46:940][998]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 28.3
+[2022.12.16-13.38.46:957][999]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 28.25
+[2022.12.16-13.38.46:973][  0]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 28.2
+[2022.12.16-13.38.46:991][  1]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 28.15
+[2022.12.16-13.38.47:007][  2]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 28.1
+[2022.12.16-13.38.47:024][  3]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 28.05
+[2022.12.16-13.38.47:041][  4]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 28
+[2022.12.16-13.38.47:058][  5]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 27.95
+[2022.12.16-13.38.47:074][  6]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 27.9
+[2022.12.16-13.38.47:091][  7]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 27.85
+[2022.12.16-13.38.47:107][  8]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 27.8
+[2022.12.16-13.38.47:123][  9]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 27.75
+[2022.12.16-13.38.47:140][ 10]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 27.7
+[2022.12.16-13.38.47:158][ 11]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 27.65
+[2022.12.16-13.38.47:174][ 12]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 27.6
+[2022.12.16-13.38.47:194][ 13]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 27.55
+[2022.12.16-13.38.47:211][ 14]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 27.5
+[2022.12.16-13.38.47:228][ 15]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 27.45
+[2022.12.16-13.38.47:244][ 16]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 27.4
+[2022.12.16-13.38.47:262][ 17]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 27.35
+[2022.12.16-13.38.47:278][ 18]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 27.3
+[2022.12.16-13.38.47:295][ 19]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 27.25
+[2022.12.16-13.38.47:311][ 20]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 27.2
+[2022.12.16-13.38.47:328][ 21]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 27.15
+[2022.12.16-13.38.47:345][ 22]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 27.1
+[2022.12.16-13.38.47:362][ 23]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 27.05
+[2022.12.16-13.38.47:378][ 24]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 27
+[2022.12.16-13.38.47:398][ 25]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 26.95
+[2022.12.16-13.38.47:415][ 26]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 26.9
+[2022.12.16-13.38.47:431][ 27]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 26.85
+[2022.12.16-13.38.47:448][ 28]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 26.8
+[2022.12.16-13.38.47:464][ 29]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 26.75
+[2022.12.16-13.38.47:481][ 30]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 26.7
+[2022.12.16-13.38.47:499][ 31]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 26.65
+[2022.12.16-13.38.47:514][ 32]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 26.6
+[2022.12.16-13.38.47:531][ 33]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 26.55
+[2022.12.16-13.38.47:547][ 34]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 26.5
+[2022.12.16-13.38.47:564][ 35]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 26.45
+[2022.12.16-13.38.47:580][ 36]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 26.4
+[2022.12.16-13.38.47:598][ 37]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 26.35
+[2022.12.16-13.38.47:614][ 38]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 26.3
+[2022.12.16-13.38.47:631][ 39]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 26.25
+[2022.12.16-13.38.47:647][ 40]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 26.2
+[2022.12.16-13.38.47:664][ 41]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 26.15
+[2022.12.16-13.38.47:681][ 42]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 26.1
+[2022.12.16-13.38.47:702][ 43]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 26.05
+[2022.12.16-13.38.47:727][ 44]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 26
+[2022.12.16-13.38.47:748][ 45]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 25.95
+[2022.12.16-13.38.47:765][ 46]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 25.9
+[2022.12.16-13.38.47:781][ 47]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 25.85
+[2022.12.16-13.38.47:801][ 48]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 25.8
+[2022.12.16-13.38.47:818][ 49]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 25.75
+[2022.12.16-13.38.47:834][ 50]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 25.7
+[2022.12.16-13.38.47:851][ 51]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 25.65
+[2022.12.16-13.38.47:867][ 52]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 25.6
+[2022.12.16-13.38.47:887][ 53]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 25.55
+[2022.12.16-13.38.47:905][ 54]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 25.5
+[2022.12.16-13.38.47:922][ 55]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 25.45
+[2022.12.16-13.38.47:938][ 56]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 25.4
+[2022.12.16-13.38.47:955][ 57]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 25.35
+[2022.12.16-13.38.47:974][ 58]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 25.3
+[2022.12.16-13.38.47:991][ 59]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 25.25
+[2022.12.16-13.38.48:007][ 60]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 25.2
+[2022.12.16-13.38.48:024][ 61]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 25.15
+[2022.12.16-13.38.48:040][ 62]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 25.1
+[2022.12.16-13.38.48:060][ 63]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 25.05
+[2022.12.16-13.38.48:079][ 64]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 25
+[2022.12.16-13.38.48:096][ 65]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 24.95
+[2022.12.16-13.38.48:113][ 66]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 24.9
+[2022.12.16-13.38.48:129][ 67]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 24.85
+[2022.12.16-13.38.48:146][ 68]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 24.8
+[2022.12.16-13.38.48:163][ 69]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 24.75
+[2022.12.16-13.38.48:180][ 70]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] ClickTime: 2 /n LimitHit: 3
+[2022.12.16-13.38.48:181][ 70]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 24.7
+[2022.12.16-13.38.48:198][ 71]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 24.65
+[2022.12.16-13.38.48:213][ 72]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 24.6
+[2022.12.16-13.38.48:231][ 73]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 24.55
+[2022.12.16-13.38.48:248][ 74]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 24.5
+[2022.12.16-13.38.48:265][ 75]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 24.45
+[2022.12.16-13.38.48:280][ 76]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 24.4
+[2022.12.16-13.38.48:297][ 77]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 24.35
+[2022.12.16-13.38.48:314][ 78]LogBlueprintUserMessages: [Enemy_PaperCharacter_C_0] Hitting Gate: true
+[2022.12.16-13.38.48:315][ 78]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 29.3
+[2022.12.16-13.38.48:331][ 79]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 29.25
+[2022.12.16-13.38.48:347][ 80]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 29.2
+[2022.12.16-13.38.48:365][ 81]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 29.15
+[2022.12.16-13.38.48:381][ 82]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 29.1
+[2022.12.16-13.38.48:398][ 83]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 19.05
+[2022.12.16-13.38.48:415][ 84]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 19
+[2022.12.16-13.38.48:435][ 85]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 18.95
+[2022.12.16-13.38.48:451][ 86]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 18.9
+[2022.12.16-13.38.48:467][ 87]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 18.85
+[2022.12.16-13.38.48:483][ 88]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 18.8
+[2022.12.16-13.38.48:503][ 89]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 18.75
+[2022.12.16-13.38.48:521][ 90]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 18.7
+[2022.12.16-13.38.48:537][ 91]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 18.65
+[2022.12.16-13.38.48:555][ 92]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 18.6
+[2022.12.16-13.38.48:570][ 93]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 18.55
+[2022.12.16-13.38.48:587][ 94]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 18.5
+[2022.12.16-13.38.48:603][ 95]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 18.45
+[2022.12.16-13.38.48:621][ 96]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 18.4
+[2022.12.16-13.38.48:637][ 97]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 18.35
+[2022.12.16-13.38.48:654][ 98]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 18.3
+[2022.12.16-13.38.48:670][ 99]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 18.25
+[2022.12.16-13.38.48:688][100]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 18.2
+[2022.12.16-13.38.48:704][101]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 18.15
+[2022.12.16-13.38.48:724][102]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 18.1
+[2022.12.16-13.38.48:739][103]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 18.05
+[2022.12.16-13.38.48:759][104]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 18
+[2022.12.16-13.38.48:775][105]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 17.95
+[2022.12.16-13.38.48:793][106]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 17.9
+[2022.12.16-13.38.48:810][107]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 17.85
+[2022.12.16-13.38.48:811][107]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.16-13.38.48:812][107]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.16-13.38.48:813][107]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.16-13.38.48:826][108]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 17.8
+[2022.12.16-13.38.48:852][109]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 17.75
+[2022.12.16-13.38.48:871][110]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 17.7
+[2022.12.16-13.38.48:887][111]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 17.65
+[2022.12.16-13.38.48:906][112]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 17.6
+[2022.12.16-13.38.48:923][113]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 17.55
+[2022.12.16-13.38.48:940][114]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 17.5
+[2022.12.16-13.38.48:956][115]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 17.45
+[2022.12.16-13.38.48:976][116]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 17.4
+[2022.12.16-13.38.49:014][117]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 17.35
+[2022.12.16-13.38.49:031][118]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 17.3
+[2022.12.16-13.38.49:048][119]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 17.25
+[2022.12.16-13.38.49:064][120]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 17.2
+[2022.12.16-13.38.49:081][121]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 17.15
+[2022.12.16-13.38.49:099][122]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 17.1
+[2022.12.16-13.38.49:114][123]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 17.05
+[2022.12.16-13.38.49:132][124]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 17
+[2022.12.16-13.38.49:150][125]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 16.95
+[2022.12.16-13.38.49:166][126]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 16.9
+[2022.12.16-13.38.49:183][127]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 16.85
+[2022.12.16-13.38.49:204][128]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 16.8
+[2022.12.16-13.38.49:220][129]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 16.75
+[2022.12.16-13.38.49:237][130]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 16.7
+[2022.12.16-13.38.49:254][131]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 16.65
+[2022.12.16-13.38.49:270][132]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 16.6
+[2022.12.16-13.38.49:287][133]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 16.55
+[2022.12.16-13.38.49:304][134]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 16.5
+[2022.12.16-13.38.49:320][135]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 16.45
+[2022.12.16-13.38.49:341][136]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 16.4
+[2022.12.16-13.38.49:360][137]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 16.35
+[2022.12.16-13.38.49:377][138]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 16.3
+[2022.12.16-13.38.49:394][139]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 16.25
+[2022.12.16-13.38.49:412][140]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 16.2
+[2022.12.16-13.38.49:428][141]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 16.15
+[2022.12.16-13.38.49:449][142]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 16.1
+[2022.12.16-13.38.49:465][143]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 16.05
+[2022.12.16-13.38.49:484][144]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 16
+[2022.12.16-13.38.49:502][145]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 15.95
+[2022.12.16-13.38.49:519][146]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 15.9
+[2022.12.16-13.38.49:536][147]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 15.85
+[2022.12.16-13.38.49:552][148]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 15.8
+[2022.12.16-13.38.49:569][149]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 15.75
+[2022.12.16-13.38.49:588][150]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 15.7
+[2022.12.16-13.38.49:605][151]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 15.65
+[2022.12.16-13.38.49:621][152]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 15.6
+[2022.12.16-13.38.49:638][153]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 15.55
+[2022.12.16-13.38.49:654][154]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 15.5
+[2022.12.16-13.38.49:671][155]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 15.45
+[2022.12.16-13.38.49:688][156]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 15.4
+[2022.12.16-13.38.49:707][157]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 15.35
+[2022.12.16-13.38.49:730][158]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 15.3
+[2022.12.16-13.38.49:745][159]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 15.25
+[2022.12.16-13.38.49:761][160]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 15.2
+[2022.12.16-13.38.49:778][161]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 15.15
+[2022.12.16-13.38.49:795][162]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 15.1
+[2022.12.16-13.38.49:811][163]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 15.05
+[2022.12.16-13.38.49:829][164]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 15
+[2022.12.16-13.38.49:845][165]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 14.95
+[2022.12.16-13.38.49:863][166]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 14.9
+[2022.12.16-13.38.49:878][167]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 14.85
+[2022.12.16-13.38.49:896][168]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 14.8
+[2022.12.16-13.38.49:912][169]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 14.75
+[2022.12.16-13.38.49:930][170]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 14.7
+[2022.12.16-13.38.49:945][171]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 14.65
+[2022.12.16-13.38.49:962][172]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 14.6
+[2022.12.16-13.38.49:978][173]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 14.55
+[2022.12.16-13.38.49:995][174]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 14.5
+[2022.12.16-13.38.50:011][175]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 14.45
+[2022.12.16-13.38.50:028][176]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 14.4
+[2022.12.16-13.38.50:046][177]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 14.35
+[2022.12.16-13.38.50:066][178]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 14.3
+[2022.12.16-13.38.50:083][179]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 14.25
+[2022.12.16-13.38.50:104][180]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 14.2
+[2022.12.16-13.38.50:117][181]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 14.15
+[2022.12.16-13.38.50:134][182]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 14.1
+[2022.12.16-13.38.50:151][183]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 14.05
+[2022.12.16-13.38.50:171][184]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 14
+[2022.12.16-13.38.50:187][185]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 13.95
+[2022.12.16-13.38.50:203][186]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 13.9
+[2022.12.16-13.38.50:220][187]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 13.85
+[2022.12.16-13.38.50:237][188]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 13.8
+[2022.12.16-13.38.50:253][189]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 13.75
+[2022.12.16-13.38.50:270][190]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 13.7
+[2022.12.16-13.38.50:286][191]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 13.65
+[2022.12.16-13.38.50:303][192]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 13.6
+[2022.12.16-13.38.50:320][193]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 13.55
+[2022.12.16-13.38.50:337][194]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 13.5
+[2022.12.16-13.38.50:353][195]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 13.45
+[2022.12.16-13.38.50:370][196]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 13.4
+[2022.12.16-13.38.50:387][197]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 13.35
+[2022.12.16-13.38.50:405][198]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 13.3
+[2022.12.16-13.38.50:420][199]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 13.25
+[2022.12.16-13.38.50:437][200]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 13.2
+[2022.12.16-13.38.50:453][201]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 13.15
+[2022.12.16-13.38.50:471][202]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 13.1
+[2022.12.16-13.38.50:487][203]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 13.05
+[2022.12.16-13.38.50:504][204]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 13
+[2022.12.16-13.38.50:521][205]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 12.95
+[2022.12.16-13.38.50:538][206]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 12.9
+[2022.12.16-13.38.50:554][207]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 12.85
+[2022.12.16-13.38.50:570][208]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 12.8
+[2022.12.16-13.38.50:586][209]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 12.75
+[2022.12.16-13.38.50:604][210]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 12.7
+[2022.12.16-13.38.50:620][211]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 12.65
+[2022.12.16-13.38.50:636][212]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 12.6
+[2022.12.16-13.38.50:653][213]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 12.55
+[2022.12.16-13.38.50:670][214]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 12.5
+[2022.12.16-13.38.50:688][215]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 12.45
+[2022.12.16-13.38.50:705][216]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 12.4
+[2022.12.16-13.38.50:722][217]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 12.35
+[2022.12.16-13.38.50:741][218]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 12.3
+[2022.12.16-13.38.50:760][219]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 12.25
+[2022.12.16-13.38.50:779][220]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 12.2
+[2022.12.16-13.38.50:796][221]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 12.15
+[2022.12.16-13.38.50:814][222]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 12.1
+[2022.12.16-13.38.50:830][223]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 12.05
+[2022.12.16-13.38.50:848][224]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 12
+[2022.12.16-13.38.50:864][225]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 11.95
+[2022.12.16-13.38.50:880][226]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 11.9
+[2022.12.16-13.38.50:898][227]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 11.85
+[2022.12.16-13.38.50:914][228]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 11.8
+[2022.12.16-13.38.50:933][229]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 11.75
+[2022.12.16-13.38.50:947][230]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 11.7
+[2022.12.16-13.38.50:963][231]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 11.65
+[2022.12.16-13.38.50:980][232]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 11.6
+[2022.12.16-13.38.50:998][233]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 11.55
+[2022.12.16-13.38.51:013][234]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 11.5
+[2022.12.16-13.38.51:030][235]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 11.45
+[2022.12.16-13.38.51:046][236]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 11.4
+[2022.12.16-13.38.51:064][237]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 11.35
+[2022.12.16-13.38.51:080][238]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 11.3
+[2022.12.16-13.38.51:099][239]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 11.25
+[2022.12.16-13.38.51:114][240]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 11.2
+[2022.12.16-13.38.51:131][241]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 11.15
+[2022.12.16-13.38.51:147][242]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 11.1
+[2022.12.16-13.38.51:163][243]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 11.05
+[2022.12.16-13.38.51:180][244]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 11
+[2022.12.16-13.38.51:197][245]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 10.95
+[2022.12.16-13.38.51:213][246]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 10.9
+[2022.12.16-13.38.51:230][247]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 10.85
+[2022.12.16-13.38.51:247][248]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 10.8
+[2022.12.16-13.38.51:265][249]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 10.75
+[2022.12.16-13.38.51:280][250]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 10.7
+[2022.12.16-13.38.51:298][251]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 10.65
+[2022.12.16-13.38.51:315][252]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 10.6
+[2022.12.16-13.38.51:332][253]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 10.55
+[2022.12.16-13.38.51:349][254]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 10.5
+[2022.12.16-13.38.51:364][255]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 10.45
+[2022.12.16-13.38.51:380][256]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 10.4
+[2022.12.16-13.38.51:398][257]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 10.35
+[2022.12.16-13.38.51:414][258]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 10.3
+[2022.12.16-13.38.51:433][259]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 10.25
+[2022.12.16-13.38.51:447][260]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 10.2
+[2022.12.16-13.38.51:463][261]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 10.15
+[2022.12.16-13.38.51:481][262]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 10.1
+[2022.12.16-13.38.51:498][263]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 10.05
+[2022.12.16-13.38.51:513][264]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 10
+[2022.12.16-13.38.51:531][265]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 9.95
+[2022.12.16-13.38.51:547][266]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 9.9
+[2022.12.16-13.38.51:565][267]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 9.85
+[2022.12.16-13.38.51:581][268]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 9.8
+[2022.12.16-13.38.51:599][269]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 9.75
+[2022.12.16-13.38.51:614][270]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 9.7
+[2022.12.16-13.38.51:632][271]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 9.65
+[2022.12.16-13.38.51:649][272]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 9.6
+[2022.12.16-13.38.51:664][273]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 9.55
+[2022.12.16-13.38.51:681][274]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 9.5
+[2022.12.16-13.38.51:698][275]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 9.45
+[2022.12.16-13.38.51:715][276]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 9.4
+[2022.12.16-13.38.51:732][277]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 9.35
+[2022.12.16-13.38.51:751][278]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 9.3
+[2022.12.16-13.38.51:771][279]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 9.25
+[2022.12.16-13.38.51:787][280]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 9.2
+[2022.12.16-13.38.51:804][281]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 9.15
+[2022.12.16-13.38.51:820][282]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 9.1
+[2022.12.16-13.38.51:839][283]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 9.05
+[2022.12.16-13.38.51:857][284]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 9
+[2022.12.16-13.38.51:874][285]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 8.95
+[2022.12.16-13.38.51:891][286]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 8.9
+[2022.12.16-13.38.51:910][287]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 8.85
+[2022.12.16-13.38.51:927][288]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 8.8
+[2022.12.16-13.38.51:944][289]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 8.75
+[2022.12.16-13.38.51:961][290]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 8.7
+[2022.12.16-13.38.51:980][291]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 8.65
+[2022.12.16-13.38.51:999][292]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 8.6
+[2022.12.16-13.38.52:015][293]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 8.55
+[2022.12.16-13.38.52:032][294]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 8.5
+[2022.12.16-13.38.52:048][295]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 8.45
+[2022.12.16-13.38.52:066][296]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 8.4
+[2022.12.16-13.38.52:082][297]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 8.35
+[2022.12.16-13.38.52:104][298]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 8.3
+[2022.12.16-13.38.52:121][299]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 8.25
+[2022.12.16-13.38.52:143][300]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 8.2
+[2022.12.16-13.38.52:160][301]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 8.15
+[2022.12.16-13.38.52:178][302]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 8.1
+[2022.12.16-13.38.52:195][303]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 8.05
+[2022.12.16-13.38.52:212][304]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 8
+[2022.12.16-13.38.52:232][305]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 7.95
+[2022.12.16-13.38.52:250][306]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 7.9
+[2022.12.16-13.38.52:268][307]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 7.85
+[2022.12.16-13.38.52:285][308]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 7.8
+[2022.12.16-13.38.52:301][309]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 7.75
+[2022.12.16-13.38.52:318][310]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 7.7
+[2022.12.16-13.38.52:336][311]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 7.65
+[2022.12.16-13.38.52:352][312]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 7.6
+[2022.12.16-13.38.52:370][313]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 7.55
+[2022.12.16-13.38.52:385][314]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 7.5
+[2022.12.16-13.38.52:402][315]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 7.45
+[2022.12.16-13.38.52:418][316]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 7.4
+[2022.12.16-13.38.52:436][317]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 7.35
+[2022.12.16-13.38.52:452][318]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 7.3
+[2022.12.16-13.38.52:469][319]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 7.25
+[2022.12.16-13.38.52:485][320]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 7.2
+[2022.12.16-13.38.52:502][321]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] current health: 7.15
+[2022.12.16-13.38.53:108][357]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] ClickTime: 2 /n LimitHit: 4
+[2022.12.16-13.38.56:493][560]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] ClickTime: 2 /n LimitHit: 1
+[2022.12.16-13.38.56:626][568]LogBlueprintUserMessages: [Enemy_PaperCharacter_C_6] Hitting Gate: true
+[2022.12.16-13.38.57:542][623]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] ClickTime: 2 /n LimitHit: 2
+[2022.12.16-13.38.57:678][631]LogBlueprintUserMessages: [Enemy_PaperCharacter_C_6] Hitting Gate: true
+[2022.12.16-13.39.01:027][832]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] ClickTime: 2 /n LimitHit: 3
+[2022.12.16-13.39.01:160][840]LogBlueprintUserMessages: [Enemy_PaperCharacter_C_6] Hitting Gate: true
+[2022.12.16-13.39.01:644][869]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.16-13.39.01:645][869]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.16-13.39.01:645][869]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.16-13.39.04:177][ 21]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] Up: false Down: true Left: false Right: false
+[2022.12.16-13.39.06:177][141]LogBlueprintUserMessages: [MainCharacter_PaperCharacter_C_0] Up: false Down: true Left: false Right: false
+[2022.12.16-13.39.07:370][211]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.16-13.39.07:370][211]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_Test
+[2022.12.16-13.39.07:371][211]LogWorld: UWorld::CleanupWorld for Map_Test, bSessionEnded=true, bCleanupResources=true
+[2022.12.16-13.39.07:371][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.16-13.39.07:390][211]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.16-13.39.07:394][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.16-13.39.07:405][211]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.16-13.39.07:408][211]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.12.16-13.39.07:410][211]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.12.16-13.39.07:433][211]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.16-13.39.07:437][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.12.16-13.39.07:641][212]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2022.12.16-13.39.11:597][430]LogAssetEditorSubsystem: Opening Asset editor for PaperZDAnimBP /Game/Character/EnemyCharacter/Animation/Enemy_PaperZDAnimBP.Enemy_PaperZDAnimBP
+[2022.12.16-13.39.11:598][430]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
